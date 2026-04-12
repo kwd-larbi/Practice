@@ -1,8 +1,6 @@
 """
 Concerned with retrieving  and  storing books from a  list.
-Concerned with retrieving  and  storing books from a  csv file
-format of the csv file:
-name#author#read
+
 """
 books = []
 
